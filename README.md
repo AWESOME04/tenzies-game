@@ -24,6 +24,14 @@ This is a React-based web application that implements the game of Tenzies. Tenzi
 - nanoid (for generating unique IDs)
 - react-confetti (for the confetti animation)
 
+## Future Improvements
+- Add an authentocation to allow users sign up / log in to see older gameplays
+- Allow users to choose from different color themes.
+- Add a multiplayer mode for players to compete against each other in real-time or take turns.
+- Introduce different difficulty levels by varying the number of dice or target value.
+- Add visually appealing animations and sound effects for dice rolling, winning, and other actions.
+- Track and display game statistics and analytics for players, such as games played, average score, and win/loss ratio.
+
 ## Getting Started
 
 To run the application locally, follow these steps:
